@@ -21,7 +21,7 @@ Now you got your first choice, fight or run !
 If you have clicked the gun to fight you will see the battle.
 
 After a battle I'd advise you to **heal** up, for now you can use your hourly bonus to do that.  
-You can claim the bonus by typing `CD hourly`
+You can claim the bonus by typing `CD hourly` or `CD hr`
 
 You see when you claim your hourly bonus that you will get seeds with that ! 
 
