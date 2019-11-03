@@ -2,11 +2,24 @@
 
 # resources
 
-* wood
+* wood  
 **Description**  
-Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants used to craft weapons, shields, items.
-* stone	
-* metal
+Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants used to craft weapons, shields, items.  
+**Used to craft**  
+fence  
+plank  
+wooden beam  
+wooden pole  
+wooden talisman  
+
+* stone	 
+**Description**  
+A round boulder, very hard but it's useful if you can break it down into smaller pieces.
+* metal  
+**Description**  
+A metal block, used to craft numerous things.  
+**Used to craft**  
+iron sword
 * rubber	
 
 # crafting items
@@ -23,7 +36,8 @@ A group of fibers braided together, rope is used to hold two or more items toget
    **Description**    
     **recipe**   
  * rocks  
-  **Description**    
+  **Description**   
+  A small pile of stones, used for crafting items. 
    **recipe**   
    
 * wooden board  
@@ -49,7 +63,9 @@ A thin wire made of metal, wire can be used for making objects.
 * screw  
 **Description**  
 A small metal object with a helical ridge. you can use it to make two objects of wood or other thin material hold together.
-* paper	
+* paper	 
+**Description**  
+A white piece of paper, made of wood pulp.
 * nails
 * fibers
 * leather
@@ -62,15 +78,32 @@ A group of fibers braided together, rope is used to hold two or more items toget
 * fence	 
 **Description**  
 A wooden fence, used for garden upgrade. Looks like it keeps the zombies out !
-* plank	
+* plank  
+**Description**  
+A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
+**Recipe**   
+3x wood
 * rocks
 # crafting consumable
-* candle
+* candle  
+**Description**  
+Small candle with a twisted pink color this will  bring light in the dark.  
 * flour	 
-* butter	  
+**Description**  
+White powdery substance, usually used to bake cakes, bread and other consumables.  
+* butter  
+**Description**  
+A soft yellow stick of butter, its packaging is still intact. You can use it to bake or cook.
 * sugar	 
-* eggs	
-* vanilla	
+**Description**  
+White granules of sugar in a package, used to make your cooking sweeter  
+* eggs  
+**Description**	 
+Hard shell. from experience you know inside there is a yoke with egg white. You can use it to bake or cook. 
+* vanilla  
+**Description**  
+Comes from orchids, used to sweeten your meals.  
+
 * flax flower
 
 # garden items
@@ -185,8 +218,11 @@ Your starting sword, very good for training to become an ultimate zombie killer 
    **recipe**  
 * sword  
 **Description**  
-A normal training sword, you can manage with this for now !
-* IV stand
+A metal sword with a skull handle. Better then training sword, worse then upgraded sword.
+* IV stand  
+**Description**
+A long metal stand for holding medication drips. Looks rusty and battered. 
+
 * heavy metal chain
 * baseball bat	
 * machete	
@@ -226,11 +262,21 @@ part of spear
 # miscellaneous
 
 * birthdaycake  
-  **Description**  
-   **recipe**  
+**Description**  
+A birthday cake! A couple candles and some nice pink frosting. Happy birthday to you!   
+ **recipe**  
+5 x candle   
+2 x flour  
+1 x butter  
+1 x sugar  
+2 x eggs  
+1 x vanilla  
+
 * paper plane  
   **Description**  
+  A small plane made of paper, if made correct it can be really aerodynamic
    **recipe**  
+   1x paper
 * sweater  
   **Description**    
    **recipe**  
