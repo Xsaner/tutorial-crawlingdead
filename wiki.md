@@ -12,8 +12,8 @@ wooden beam
 wooden pole  
 wooden talisman  
 
-* stone	 
-**Description**  
+* stone  
+**Description**   
 A round boulder, very hard but it's useful if you can break it down into smaller pieces.
 * metal  
 **Description**  
