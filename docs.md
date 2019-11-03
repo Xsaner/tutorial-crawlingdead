@@ -81,7 +81,7 @@ You can only throw one item at a time!
 
 ## Equip weapons
 You can also equip items like swords and shields do it like this:  
-`CD equip wooden stick`  
+`CD equip training sword`  
 these items will increase your stats.
 
 ## Fight with friends !
