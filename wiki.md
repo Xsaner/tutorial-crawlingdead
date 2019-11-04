@@ -10,11 +10,9 @@ fence
 
 * wooden beam  
 **Description**  
-A wooden beam, used to make wooden board.
-wooden pole  
-wooden talisman  
+A wooden beam, used to make wooden board.  
 
-* stone  
+* stone	  
 **Description**  
 A round boulder, very hard but it's useful if you can break it down into smaller pieces.
 * metal  
@@ -29,7 +27,7 @@ A rubber strip that you can form in any way you want.
 # crafting items
 * rope  
 **Description**  
-A group of fibers braided together, rope is used to hold two or more items together.
+A group of fibers braided together, rope is used to hold two or more items together.  
 **used to craft:**  
  fence 
  spear  
@@ -38,15 +36,15 @@ A group of fibers braided together, rope is used to hold two or more items toget
  
  * plank  
    **Description**   
-A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts. 
+A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
     **recipe**   
  * rocks  
   **Description**   
-  A small pile of stones, used for crafting items. 
+  A small pile of stones, used for crafting items.  
    **recipe**   
    
 * wooden board  
-**Description** 
+**Description**  
 Self made wooden board, you are quite the handyman !   
    **recipe**   
 * wooden beam  
@@ -56,10 +54,17 @@ Self made wooden board, you are quite the handyman !
 **Description**    
    **recipe** 
 * yarn
+**Description**    
+**recipe**  
 * flax
-
-* linen
-* flax fibers
+**Description**    
+**recipe**  
+* linen  
+**Description**    
+   **recipe**  
+* flax fibers  
+**Description**    
+   **recipe**  
 * tape  
 **Description**  
 A strip of plastic with an adhesive surface , tape is used to hold two items together
@@ -79,9 +84,15 @@ Standard metal nail. You can craft these from metal.
 **Description**  
 A long string of fabric, used to make rope.
 
-* leather
+* leather  
+**Description**    
+   **recipe**  
 * wool	
-* cotton
+**Description**    
+   **recipe**  
+* cotton  
+**Description**    
+   **recipe**  
 
 * rope  	
 **Description**  
@@ -94,7 +105,6 @@ A wooden fence, used for garden upgrade. Looks like it keeps the zombies out !
 A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
 **Recipe**   
 3x wood
-* rocks
 # crafting consumable
 * candle  
 **Description**  
@@ -115,7 +125,9 @@ Hard shell. from experience you know inside there is a yoke with egg white. You 
 **Description**  
 Comes from orchids, used to sweeten your meals.  
 
-* flax flower
+* flax flower  
+**Description**    
+   **recipe**  
 
 # garden items
   * fence  
@@ -139,21 +151,23 @@ Comes from orchids, used to sweeten your meals.
    **Description**
 * sesame seed    
    **recipe**   
-   **Description**    
-   **recipe**   
-   **Description**    
-   **recipe** 
-* flax seeds 
-* tomato seeds
+   **Description**  
+* flax seeds  
+**Description**    
+   **recipe**  
+* tomato seeds  
+**Description**    
+   **recipe**  
 
 # consumables 
 * flax snacks  
-	SNACKS !
+**Description**    
+   **recipe**  
 * potato  
 **Description**  
 A root vegetable, this yellow color makes it look so tasty. Clean it, cook it, eat it.
 * bread  
-**Description**
+**Description**  
 Some water and flower bake it and bread ! Smells delicious !
 * bottled water  
 **Description**  
@@ -179,8 +193,8 @@ It has a nasty green color with hairs coming from it.
 * crackers  
 **Description**  
 Dried crackers, good with something on it. Beggers can't be choosers !
-* beans
-**Description**
+* beans  
+**Description**  
 A can of brown beans with sauce, this would go great with saucage.
 * apple  
 **Description**  
@@ -285,19 +299,20 @@ small shield used to block attacks, higher dodge chances but you can also use it
 * garbage bag  
 **Description**  
 This plastic black garbage bag will keep you safe from zombie bites !
-* light armor	
+* light armor  	
 **Description**  
-A rubber strip that you can form in any way you want.
+black armor that covers only the basics, probably used in airsoft or some sport like that.
+
 # weapon crafting material
 * spear tip  
-  **Description** 
+  **Description**  
   A spear tip made of stone, used to craft spear.   
    **recipe**  
    8x stone
 * cross-guard  
 **Description**  
 A cross guard in the shape of a V, part of iron sword
-* iron grip	
+* iron grip	 
 **Description**    
 An iron grip, part of iron sword
 * iron pommel  
@@ -340,6 +355,12 @@ A small castle, I don't recognize this one. Probably a fantasy castle.
 * stone talisman  
 **Description**  
 A pendant of stone, with some sort of idol on it.	
-* chesspiece	
-* sweater
-* wooden talisman
+* chess piece	
+**Description**    
+   **recipe**  
+* sweater  
+**Description**    
+   **recipe**  
+* wooden talisman  
+**Description**    
+   **recipe**  
