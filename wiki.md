@@ -14,7 +14,7 @@ A wooden beam, used to make wooden board.
 wooden pole  
 wooden talisman  
 
-* stone	 
+* stone  
 **Description**  
 A round boulder, very hard but it's useful if you can break it down into smaller pieces.
 * metal  
