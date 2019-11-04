@@ -8,7 +8,7 @@ Wood is a porous and fibrous structural tissue found in the stems and roots of t
 **Used to craft**  
 fence  
 
-wooden beam  
+* wooden beam  
 **Description**  
 A wooden beam, used to make wooden board.
 wooden pole  
