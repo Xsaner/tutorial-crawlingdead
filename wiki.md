@@ -7,11 +7,9 @@
 Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants used to craft weapons, shields, items.  
 **Used to craft**  
 fence  
-
 * wooden beam  
 **Description**  
 A wooden beam, used to make wooden board.  
-
 * stone	  
 **Description**  
 A round boulder, very hard but it's useful if you can break it down into smaller pieces.
@@ -23,8 +21,7 @@ iron sword
 * rubber  
 **Description**  
 A rubber strip that you can form in any way you want.
-
-* wool	
+* wool	 
 **Description**    
 White wool, got from shaving sheep. 
 **recipe**  
@@ -48,12 +45,14 @@ A small pile of stones, used for crafting items.
 Self made wooden board, you are quite the handyman !   
 **recipe**   
 * wooden beam  
-**Description**    
+**Description**  
+A wooden beam, used to make wooden board.  
 **recipe**   
 * wooden pole  
-**Description**    
+**Description**  
+A long wooden pole, used in the craft of a spear !   
 **recipe** 
-* yarn
+* yarn  
 **Description**  
 You can make some clothing items with this, comes in different colors  
 **recipe**  
@@ -178,6 +177,7 @@ seeds from a tomato
 # consumables 
 * flax snacks  
 **Description**    
+SNACKS!  
    **recipe**  
 * potato  
 **Description**  
@@ -248,7 +248,7 @@ A rotten orange, black and green spots.
 A white fabric with elastic band used to cover up small wounds.
 * firstaid  
 **Description**  
-Deep wounds and cuts are cured by this, no need for a hospital !
+Deep wounds and cuts are cured by this, no need for a hospital !  
 **recipe**  
 4 x bandage
 
@@ -346,9 +346,9 @@ An iron pommel, used for balance in a sword. Part of iron sword
 A perfect wooden stick, perfect for crafting a bow !  
 * spear tip  
 **Description**  
-* wooden pole	
+* wooden pole	 
 **Description**  
-A long wooden pole, used in the craft of a spear ! 
+A long wooden pole, used in the craft of a spear !  
 **recipe**
 2x wood
 # miscellaneous
@@ -366,7 +366,7 @@ A birthday cake! A couple candles and some nice pink frosting. Happy birthday to
 
 * paper plane  
 **Description**  
-A small plane made of paper, if made correct it can be really aerodynamic
+A small plane made of paper, if made correct it can be really aerodynamic  
 **recipe**  
 1x paper
 * sweater  
@@ -386,7 +386,7 @@ A small castle, I don't recognize this one. Probably a fantasy castle.
 * stone talisman  
 **Description**  
 A pendant of stone, with some sort of idol on it.	
-* chess piece	
+* chess piece	 
 **Description**    
 A chess piece, looks like a rook. 
 * sweater  
