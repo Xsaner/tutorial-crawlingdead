@@ -7,20 +7,24 @@
 Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants used to craft weapons, shields, items.  
 **Used to craft**  
 fence  
-plank  
+
 wooden beam  
+**Description**  
+A wooden beam, used to make wooden board.
 wooden pole  
 wooden talisman  
 
-* stone  
-**Description**   
+* stone	 
+**Description**  
 A round boulder, very hard but it's useful if you can break it down into smaller pieces.
 * metal  
 **Description**  
 A metal block, used to craft numerous things.  
 **Used to craft**  
 iron sword
-* rubber	
+* rubber  
+**Description**  
+A rubber strip that you can form in any way you want.
 
 # crafting items
 * rope  
@@ -33,7 +37,8 @@ A group of fibers braided together, rope is used to hold two or more items toget
  4x fibers  
  
  * plank  
-   **Description**    
+   **Description**   
+A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts. 
     **recipe**   
  * rocks  
   **Description**   
@@ -41,7 +46,8 @@ A group of fibers braided together, rope is used to hold two or more items toget
    **recipe**   
    
 * wooden board  
-**Description**    
+**Description** 
+Self made wooden board, you are quite the handyman !   
    **recipe**   
 * wooden beam  
 **Description**    
@@ -66,8 +72,13 @@ A small metal object with a helical ridge. you can use it to make two objects of
 * paper	 
 **Description**  
 A white piece of paper, made of wood pulp.
-* nails
-* fibers
+* nails  
+**Description**  
+Standard metal nail. You can craft these from metal.
+* fibers  
+**Description**  
+A long string of fabric, used to make rope.
+
 * leather
 * wool	
 * cotton
@@ -171,16 +182,33 @@ Dried crackers, good with something on it. Beggers can't be choosers !
 * beans
 **Description**
 A can of brown beans with sauce, this would go great with saucage.
-* apple  	
-* rotten apple  	
-* banana  	
-* rotten banana  	
+* apple  
+**Description**  
+An apple, red greenish, it grows on trees.
+* rotten apple  
+**Description**    
+An apple with holes in it, probably some wurms in it too.
+* banana  
+**Description**   
+A banana, yellow, nice and ripe !
+* rotten banana  
+**Description**  	
+A banana with nasty black spots on it.
 * pumpkin  
+**Description**  
+A pumpkin fruit ! Also used for decoration but hey who needs halloween when you have zombies crawling around ?
 * energy bar  
+**Description**  
+An energy bar, on the wrapper it says " 'Eazy-E' energy bar!".
 * rotten tomato  
-* rotten fish	  
-* rotten strawberry  	
-* rotten orange  	
+**Description**  
+* rotten fish  
+**Description** 
+* rotten strawberry  
+**Description**  
+  	
+* rotten orange  
+**Description**    	
 
 # Healing items
 * bandage  
@@ -207,7 +235,7 @@ Your starting sword, very good for training to become an ultimate zombie killer 
  * upgraded sword   
  **Description**  
  An upgraded sword, the swing of it resonates through your soul. A real zombie killer!  
- **recipe**
+ **recipe**  
  3 x sword 
  6 x tape
  * wooden chair  
@@ -215,46 +243,66 @@ Your starting sword, very good for training to become an ultimate zombie killer 
  **recipe**  
 * iron sword     
   **Description**  
+  An iron sword made with care, one swing with this and you never want anything else !  
    **recipe**  
+   
 * sword  
 **Description**  
 A metal sword with a skull handle. Better then training sword, worse then upgraded sword.
 * IV stand  
-**Description**
+**Description**  
 A long metal stand for holding medication drips. Looks rusty and battered. 
 
-* heavy metal chain
-* baseball bat	
-* machete	
+* heavy metal chain  
+**Description**  
+Metal rings interlinked with one another.
+* baseball bat	 
+**Description**  
+A wooden baseball bat, looks used. Blood over it. handle covered in tattered bandages.
+* machete  
+**Description**  
+A Machete, used to cut trees and plants in jungle areas. This feels like a jungle right ?
 * katana
-* knife	
+* rusty knife  	
+**Description**  
+A small rusty knife made by 'masamune' as it says on the handle , probably one of his earlier works...
 * shotgun	
-* wooden sword
+* wooden sword  
+**Description**  
+The wood looks old, covered in splinters and blood. 
 * spear
-* mech mod
+* mech mod  
+**Description**  
+Clouds of death will bring your enemies to their knees!
 
 # shields
-* small shield
+* small shield  
 **Description**  
 small shield used to block attacks, higher dodge chances but you can also use it to smash through attackers and run ! Doesn't guarentee success !
 * wooden chair
 # armor
 * unicorn-bra	
-* garbage bag	
+* garbage bag  
+**Description**  
+This plastic black garbage bag will keep you safe from zombie bites !
 * light armor	
+**Description**  
+A rubber strip that you can form in any way you want.
 # weapon crafting material
 * spear tip  
-  **Description**  
+  **Description** 
+  A spear tip made of stone, used to craft spear.   
    **recipe**  
+   8x stone
 * cross-guard  
 **Description**  
-part of iron sword
+A cross guard in the shape of a V, part of iron sword
 * iron grip	
 **Description**    
-part of iron sword  
+An iron grip, part of iron sword
 * iron pommel  
 **Description**  
-part of iron sword  
+An iron pommel, used for balance in a sword. Part of iron sword 
 * perfect wooden stick
 * spear tip
 * wooden pole	
@@ -286,8 +334,12 @@ A birthday cake! A couple candles and some nice pink frosting. Happy birthday to
 * wooden talisman  
   **Description**  
    **recipe**  
-* mini-pocket castle	
-* stone talisman	
+* mini-pocket castle  
+**Description**  
+A small castle, I don't recognize this one. Probably a fantasy castle.
+* stone talisman  
+**Description**  
+A pendant of stone, with some sort of idol on it.	
 * chesspiece	
 * sweater
 * wooden talisman
