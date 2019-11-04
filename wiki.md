@@ -18,10 +18,10 @@ iron sword
 * rubber  
 **Description**  
 A rubber strip that you can form in any way you want.
-* wool	 
-**Description**    
-White wool, got from shaving sheep. 
-**recipe**  
+* wool	  
+**Description**     
+White wool, got from shaving sheep.  
+**recipe**   
 * cotton  
 **Description**    
 Cotton from a cotton plant.
@@ -94,10 +94,10 @@ Leather is a durable and flexible material created by tanning animal rawhide and
 **recipe**  
 
 
-* rope   	
-**Description**   
-A group of fibers braided together, rope is used to hold two or more items together.    
-**used to craft:**    
+* rope   	 
+**Description**    
+A group of fibers braided together, rope is used to hold two or more items together.     
+**used to craft:**     
 fence  
 spear  
 **recipe**  
