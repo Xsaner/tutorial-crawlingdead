@@ -1,7 +1,6 @@
 
 
 # resources
-
 * wood  
 **Description**  
 Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants used to craft weapons, shields, items.  
@@ -18,14 +17,21 @@ iron sword
 * rubber  
 **Description**  
 A rubber strip that you can form in any way you want.
-* wool	  
-**Description**     
+* wool	 
+**Description**    
 White wool, got from shaving sheep.  
-**recipe**   
+**recipe**  
 * cotton  
 **Description**    
 Cotton from a cotton plant.
-
+* leather  
+**Description**  
+Leather is a durable and flexible material created by tanning animal rawhide and skins.  
+* flax  
+**Description**    
+Flax, you can make flax fibers out of this.  
+**recipe**  
+1x flax seed
 # crafting items
 
  * plank  
@@ -36,7 +42,6 @@ A wooden plank. short, long, medium these come in all sizes ! Used for a variety
 **Description**   
 A small pile of stones, used for crafting items.  
 **recipe**   
-   
 * wooden board  
 **Description**  
 Self made wooden board, you are quite the handyman !   
@@ -54,16 +59,11 @@ A long wooden pole, used in the craft of a spear !
 You can make some clothing items with this, comes in different colors  
 **recipe**  
 2x Wool
-
-* flax  
-**Description**    
-Flax, you can make flax fibers out of this.  
-**recipe**  
-1x flax seed
-
 * linen  
-**Description**    
+**Description**   
+This textile is made from flax.  
 **recipe**  
+2x flax fibers
 * flax fibers  
 **Description**  
 Flax fibers, you can make linen out of this  
@@ -88,16 +88,12 @@ Standard metal nail. You can craft these from metal.
 **Description**  
 A long string of fabric, used to make rope.
 
-* leather  
-**Description**  
-Leather is a durable and flexible material created by tanning animal rawhide and skins.  
-**recipe**  
 
 
-* rope   	 
-**Description**    
-A group of fibers braided together, rope is used to hold two or more items together.     
-**used to craft:**     
+* rope   	
+**Description**   
+A group of fibers braided together, rope is used to hold two or more items together.    
+**used to craft:**    
 fence  
 spear  
 **recipe**  
