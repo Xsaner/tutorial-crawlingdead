@@ -6,34 +6,59 @@
 Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants used to craft weapons, shields, items.  
 **Used to craft**  
 fence   
+plank  
+wooden beam  
+wooden pole  
+wooden talisman  
+
 * stone	  
 **Description**  
-A round boulder, very hard but it's useful if you can break it down into smaller pieces.
+A round boulder, very hard but it's useful if you can break it down into smaller pieces.  
+**Used to craft**  
+Rocks  
+
 * metal  
 **Description**  
 A metal block, used to craft numerous things.  
 **Used to craft**  
-iron sword
+metal piece  
+iron sword  
+
 * rubber  
 **Description**  
-A rubber strip that you can form in any way you want.
+A rubber strip that you can form in any way you want.  
+**Used to craft**  
+iron sword  
+
 * wool	 
 **Description**    
 White wool, got from shaving sheep.  
-**recipe**  
+**Used to craft**  
+yarn  
+wooly blanket  
+
 * cotton  
 **Description**    
-Cotton from a cotton plant.
+Cotton from a cotton plant.  
+**Used to craft**  
+
+
 * leather  
 **Description**  
 Leather is a durable and flexible material created by tanning animal rawhide and skins.  
 * flax  
 **Description**    
 Flax, you can make flax fibers out of this.  
+**Used to craft**  
+flax fibers  
 **recipe**  
-1x flax seed
+1x flax seed  
 # crafting items
-
+* metal piece  
+**Description**  
+Pieces of metal used to craft numerous objects  
+**recipe**  
+1x metal to craft 4 pieces.  
  * plank  
 **Description**   
 A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
@@ -74,16 +99,22 @@ Flax fibers, you can make linen out of this
 A strip of plastic with an adhesive surface , tape is used to hold two items together
 * wire  
 **Description**  
-A thin wire made of metal, wire can be used for making objects.
+A thin wire made of metal, wire can be used for making objects.  
+**recipe**  
+1x metal piece to craft 4x wire
 * screw  
 **Description**  
-A small metal object with a helical ridge. you can use it to make two objects of wood or other thin material hold together.
+A small metal object with a helical ridge. you can use it to make two objects of wood or other thin material hold together.    
+**recipe**
+1x metal piece to craft 4x screw
 * paper   
 **Description**      
 A white piece of paper, made of wood pulp.  
 * nails  
 **Description**  
-Standard metal nail. You can craft these from metal.
+Standard metal nail. You can craft these from metal.  
+**Recipe**  
+1x metal piece to craft 4x nail
 * fibers  
 **Description**  
 A long string of fabric, used to make rope.
@@ -93,7 +124,7 @@ A long string of fabric, used to make rope.
 * rope   	
 **Description**   
 A group of fibers braided together, rope is used to hold two or more items together.    
-**used to craft:**    
+**used to craft**    
 fence  
 spear  
 **recipe**  
