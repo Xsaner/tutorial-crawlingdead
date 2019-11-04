@@ -55,9 +55,9 @@ You can make some clothing items with this, comes in different colors
 **recipe**  
 2x Wool
 
-* flax
+* flax  
 **Description**    
-Flax, you can make flax fibers out of this.
+Flax, you can make flax fibers out of this.  
 **recipe**  
 1x flax seed
 
@@ -78,9 +78,9 @@ A thin wire made of metal, wire can be used for making objects.
 * screw  
 **Description**  
 A small metal object with a helical ridge. you can use it to make two objects of wood or other thin material hold together.
-* paper	 
-**Description**  
-A white piece of paper, made of wood pulp.
+* paper   
+**Description**      
+A white piece of paper, made of wood pulp.  
 * nails  
 **Description**  
 Standard metal nail. You can craft these from metal.
@@ -94,10 +94,10 @@ Leather is a durable and flexible material created by tanning animal rawhide and
 **recipe**  
 
 
-* rope  	
-**Description**  
-A group of fibers braided together, rope is used to hold two or more items together.  
-**used to craft:**  
+* rope   	
+**Description**   
+A group of fibers braided together, rope is used to hold two or more items together.    
+**used to craft:**    
 fence  
 spear  
 **recipe**  
@@ -105,9 +105,9 @@ spear
 * string  
 **Description**  
 A string made of multiple fibers.
-* fence	 
-**Description**  
-A wooden fence, used for garden upgrade. Looks like it keeps the zombies out !
+* fence  
+**Description**    
+A wooden fence, used for garden upgrade. Looks like it keeps the zombies out !  
 * plank  
 **Description**  
 A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
@@ -117,33 +117,32 @@ A wooden plank. short, long, medium these come in all sizes ! Used for a variety
 * candle  
 **Description**  
 Small candle with a twisted pink color this will  bring light in the dark.  
-* flour	 
-**Description**  
+* flour  
+**Description**    
 White powdery substance, usually used to bake cakes, bread and other consumables.  
 * butter  
-**Description**  
-A soft yellow stick of butter, its packaging is still intact. You can use it to bake or cook.
+**Description**    
+A soft yellow stick of butter, its packaging is still intact. You can use it to bake or cook.  
 * sugar	 
 **Description**  
 White granules of sugar in a package, used to make your cooking sweeter  
 * eggs  
 **Description**	 
-Hard shell. from experience you know inside there is a yoke with egg white. You can use it to bake or cook. 
+Hard shell. from experience you know inside there is a yoke with egg white. You can use it to bake or cook.  
 * vanilla  
 **Description**  
 Comes from orchids, used to sweeten your meals.  
-
 * flax flour  
 **Description**    
-A grainy kind of flour, with this you can make a tasty snack !  
+A grainy kind of flour, with this you can make a tasty snack !    
 **recipe**  
-1x flax seed
+1x flax seed  
 
 # garden items
 * fence  
-**Description**  
-used for garden upgrades  
-**recipe**
+**Description**    
+used for garden upgrades    
+**recipe**  
 2 x wire 
 2 x rope 
 4 x screw 
@@ -155,16 +154,16 @@ used for garden upgrades
 Seeds from a pumkin    
 * hemp seed   
 **Description**   
-Hemp seed, to grow hemp you need this. 
+Hemp seed, to grow hemp you need this.  
 * sunflower seed  
-**Description**
-Sunflower seed from a sunflower.
+**Description**  
+Sunflower seed from a sunflower.  
 * sesame seed    
-**Description**
+**Description**  
 Sesame seed from the benne plant.  
 * flax seeds  
 **Description**  
-Small seeds, looks like flax seeds. If you want flax you need this !  
+Small seeds, looks like flax seeds. If you want flax you need this !    
 **recipe**  
 * tomato seeds  
 **Description**  
@@ -255,9 +254,6 @@ Deep wounds and cuts are cured by this, no need for a hospital !
 * training sword  
 **Description**  
 Your starting sword, very good for training to become an ultimate zombie killer !
-* spear  
-**Description**  
-**recipe**
 * bow  
 **Description**  
 A bow, made of the best materials. Now you can be a real hunter  
@@ -313,7 +309,10 @@ A small metal device, used to smoke liquid: "Clouds of death will bring your ene
 * small shield  
 **Description**  
 small shield used to block attacks, higher dodge chances but you can also use it to smash through attackers and run ! Doesn't guarentee success !
-* wooden chair
+* wooden chair  
+**Description**  
+A wooden chair  
+
 # armor
 * unicorn-bra	
 * garbage bag  
