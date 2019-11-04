@@ -28,6 +28,7 @@ iron sword
 **Description**  
 A rubber strip that you can form in any way you want.  
 **Used to craft**  
+tape  
 iron sword  
 
 * wool	 
@@ -41,8 +42,13 @@ wooly blanket
 **Description**    
 Cotton from a cotton plant.  
 **Used to craft**  
+bandage
 
-
+* fibers  
+**Description**  
+A long string of fabric, used to make rope.  
+**Used to craft**  
+rope
 * leather  
 **Description**  
 Leather is a durable and flexible material created by tanning animal rawhide and skins.  
@@ -59,6 +65,11 @@ flax fibers
 Pieces of metal used to craft numerous objects  
 **recipe**  
 1x metal to craft 4 pieces.  
+* wood piece
+**Description**
+Wood pieces carve to please  
+**recipe**  
+1x wood to craft 4x wood piece
  * plank  
 **Description**   
 A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
@@ -115,9 +126,7 @@ A white piece of paper, made of wood pulp.
 Standard metal nail. You can craft these from metal.  
 **Recipe**  
 1x metal piece to craft 4x nail
-* fibers  
-**Description**  
-A long string of fabric, used to make rope.
+
 
 
 
