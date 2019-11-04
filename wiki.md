@@ -24,47 +24,55 @@ iron sword
 **Description**  
 A rubber strip that you can form in any way you want.
 
+* wool	
+**Description**    
+White wool, got from shaving sheep. 
+**recipe**  
+* cotton  
+**Description**    
+Cotton from a cotton plant.
+
 # crafting items
-* rope  
-**Description**  
-A group of fibers braided together, rope is used to hold two or more items together.  
-**used to craft:**  
- fence 
- spear  
- **recipe**  
- 4x fibers  
- 
+
  * plank  
-   **Description**   
+**Description**   
 A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
-    **recipe**   
+**recipe**   
  * rocks  
-  **Description**   
-  A small pile of stones, used for crafting items.  
-   **recipe**   
+**Description**   
+A small pile of stones, used for crafting items.  
+**recipe**   
    
 * wooden board  
 **Description**  
 Self made wooden board, you are quite the handyman !   
-   **recipe**   
+**recipe**   
 * wooden beam  
 **Description**    
-   **recipe**   
+**recipe**   
 * wooden pole  
 **Description**    
-   **recipe** 
+**recipe** 
 * yarn
-**Description**    
+**Description**  
+You can make some clothing items with this, comes in different colors  
 **recipe**  
+2x Wool
+
 * flax
 **Description**    
+Flax, you can make flax fibers out of this.
 **recipe**  
+1x flax seed
+
 * linen  
 **Description**    
-   **recipe**  
+**recipe**  
 * flax fibers  
-**Description**    
-   **recipe**  
+**Description**  
+Flax fibers, you can make linen out of this  
+**recipe**  
+1x flax
 * tape  
 **Description**  
 A strip of plastic with an adhesive surface , tape is used to hold two items together
@@ -85,18 +93,22 @@ Standard metal nail. You can craft these from metal.
 A long string of fabric, used to make rope.
 
 * leather  
-**Description**    
-   **recipe**  
-* wool	
-**Description**    
-   **recipe**  
-* cotton  
-**Description**    
-   **recipe**  
+**Description**  
+Leather is a durable and flexible material created by tanning animal rawhide and skins.  
+**recipe**  
+
 
 * rope  	
 **Description**  
-A group of fibers braided together, rope is used to hold two or more items together.
+A group of fibers braided together, rope is used to hold two or more items together.  
+**used to craft:**  
+fence  
+spear  
+**recipe**  
+4x fibers  
+* string  
+**Description**  
+A string made of multiple fibers.
 * fence	 
 **Description**  
 A wooden fence, used for garden upgrade. Looks like it keeps the zombies out !
@@ -125,39 +137,43 @@ Hard shell. from experience you know inside there is a yoke with egg white. You 
 **Description**  
 Comes from orchids, used to sweeten your meals.  
 
-* flax flower  
+* flax flour  
 **Description**    
-   **recipe**  
+A grainy kind of flour, with this you can make a tasty snack !  
+**recipe**  
+1x flax seed
 
 # garden items
-  * fence  
- **Description**  
-   used for garden upgrades  
- **recipe**
-   2 x wire 
-   2 x rope 
-   4 x screw 
-   6 x wood
+* fence  
+**Description**  
+used for garden upgrades  
+**recipe**
+2 x wire 
+2 x rope 
+4 x screw 
+6 x wood
    
 # seeds
 * pumkin seed  
-   **Description**  
-   seeds from a pumkin    
-* hemp seed
-   **recipe**   
-   **Description**  
+**Description**  
+Seeds from a pumkin    
+* hemp seed   
+**Description**   
+Hemp seed, to grow hemp you need this. 
 * sunflower seed  
-   **recipe**   
-   **Description**
+**Description**
+Sunflower seed from a sunflower.
 * sesame seed    
-   **recipe**   
-   **Description**  
+**Description**
+Sesame seed from the benne plant.  
 * flax seeds  
-**Description**    
-   **recipe**  
+**Description**  
+Small seeds, looks like flax seeds. If you want flax you need this !  
+**recipe**  
 * tomato seeds  
-**Description**    
-   **recipe**  
+**Description**  
+seeds from a tomato  
+**recipe**  
 
 # consumables 
 * flax snacks  
@@ -216,22 +232,24 @@ A pumpkin fruit ! Also used for decoration but hey who needs halloween when you 
 An energy bar, on the wrapper it says " 'Eazy-E' energy bar!".
 * rotten tomato  
 **Description**  
+A rotten tomato, brown spots all over it. You shouldn't eat it !
 * rotten fish  
 **Description** 
+A rotten fish, one of the eyes is out and you can see the bone partially.
 * rotten strawberry  
 **Description**  
-  	
+  A rotten fish, one of the eyes is out and you can see the bone partially.
 * rotten orange  
 **Description**    	
-
+A rotten orange, black and green spots.
 # Healing items
 * bandage  
 **Description**  
 A white fabric with elastic band used to cover up small wounds.
- * firstaid  
- **Description**  
+* firstaid  
+**Description**  
 Deep wounds and cuts are cured by this, no need for a hospital !
- **recipe**  
+**recipe**  
 4 x bandage
 
 
@@ -240,25 +258,26 @@ Deep wounds and cuts are cured by this, no need for a hospital !
 * training sword  
 **Description**  
 Your starting sword, very good for training to become an ultimate zombie killer !
- * spear  
- **Description**  
- **recipe**
- * bow  
- **Description**  
- **recipe**
- * upgraded sword   
- **Description**  
- An upgraded sword, the swing of it resonates through your soul. A real zombie killer!  
- **recipe**  
- 3 x sword 
- 6 x tape
- * wooden chair  
- **Description**  
- **recipe**  
+* spear  
+**Description**  
+**recipe**
+* bow  
+**Description**  
+A bow, made of the best materials. Now you can be a real hunter  
+**recipe**
+* upgraded sword   
+**Description**  
+An upgraded sword, the swing of it resonates through your soul. A real zombie killer!  
+**recipe**  
+3 x sword 
+6 x tape
+* wooden chair  
+**Description**  
+**recipe**  
 * iron sword     
-  **Description**  
-  An iron sword made with care, one swing with this and you never want anything else !  
-   **recipe**  
+**Description**  
+An iron sword made with care, one swing with this and you never want anything else !  
+**recipe**  
    
 * sword  
 **Description**  
@@ -276,7 +295,9 @@ A wooden baseball bat, looks used. Blood over it. handle covered in tattered ban
 * machete  
 **Description**  
 A Machete, used to cut trees and plants in jungle areas. This feels like a jungle right ?
-* katana
+* katana  
+**Description**  
+A long sword, very sharp and shiny. This makes decapitating zombies easy !
 * rusty knife  	
 **Description**  
 A small rusty knife made by 'masamune' as it says on the handle , probably one of his earlier works...
@@ -284,10 +305,12 @@ A small rusty knife made by 'masamune' as it says on the handle , probably one o
 * wooden sword  
 **Description**  
 The wood looks old, covered in splinters and blood. 
-* spear
+* spear  
+**Description**  
+A spear made with your own two hands, isn't this lovely ?
 * mech mod  
 **Description**  
-Clouds of death will bring your enemies to their knees!
+A small metal device, used to smoke liquid: "Clouds of death will bring your enemies to their knees!"
 
 # shields
 * small shield  
@@ -305,10 +328,10 @@ black armor that covers only the basics, probably used in airsoft or some sport 
 
 # weapon crafting material
 * spear tip  
-  **Description**  
-  A spear tip made of stone, used to craft spear.   
-   **recipe**  
-   8x stone
+**Description**  
+A spear tip made of stone, used to craft spear.   
+**recipe**  
+8x stone
 * cross-guard  
 **Description**  
 A cross guard in the shape of a V, part of iron sword
@@ -318,10 +341,16 @@ An iron grip, part of iron sword
 * iron pommel  
 **Description**  
 An iron pommel, used for balance in a sword. Part of iron sword 
-* perfect wooden stick
-* spear tip
+* perfect wooden stick  
+**Description**  
+A perfect wooden stick, perfect for crafting a bow !  
+* spear tip  
+**Description**  
 * wooden pole	
-part of spear
+**Description**  
+A long wooden pole, used in the craft of a spear ! 
+**recipe**
+2x wood
 # miscellaneous
 
 * birthdaycake  
@@ -336,19 +365,21 @@ A birthday cake! A couple candles and some nice pink frosting. Happy birthday to
 1 x vanilla  
 
 * paper plane  
-  **Description**  
-  A small plane made of paper, if made correct it can be really aerodynamic
-   **recipe**  
-   1x paper
+**Description**  
+A small plane made of paper, if made correct it can be really aerodynamic
+**recipe**  
+1x paper
 * sweater  
-  **Description**    
-   **recipe**  
+**Description**    
+**recipe**  
 * wooly blanket  
-  **Description**  
-   **recipe**  
+**Description**  
+A blanket made of wool, just plain old white color.  
+**recipe**  
+2x wool
 * wooden talisman  
-  **Description**  
-   **recipe**  
+**Description**  
+  A pendant of wood, with some sort of idol on it.  
 * mini-pocket castle  
 **Description**  
 A small castle, I don't recognize this one. Probably a fantasy castle.
@@ -357,10 +388,10 @@ A small castle, I don't recognize this one. Probably a fantasy castle.
 A pendant of stone, with some sort of idol on it.	
 * chess piece	
 **Description**    
-   **recipe**  
+A chess piece, looks like a rook. 
 * sweater  
-**Description**    
-   **recipe**  
-* wooden talisman  
-**Description**    
-   **recipe**  
+**Description**   
+A sweater made of yarn,  nice gift to give someone who is cold !   
+**recipe**
+  
+   
