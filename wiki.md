@@ -17,7 +17,7 @@ A round boulder, very hard but it's useful if you can break it down into smaller
 **Used to craft**  
 Rocks  
 
-* metal ore
+* metal ore   
 **Description**  
 A metal block, used to craft numerous things.  
 **Used to craft**  
