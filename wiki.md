@@ -10,27 +10,23 @@ plank
 wooden beam  
 wooden pole  
 wooden talisman  
-
 * stone	  
 **Description**  
 A round boulder, very hard but it's useful if you can break it down into smaller pieces.  
 **Used to craft**  
 Rocks  
-
 * metal ore   
 **Description**  
 A metal block, used to craft numerous things.  
 **Used to craft**  
 metal piece  
 iron sword  
-
 * rubber  
 **Description**  
 A rubber strip that you can form in any way you want.  
 **Used to craft**  
 tape  
 iron sword  
-
 * wool	 
 **Description**    
 White wool, got from shaving sheep.  
@@ -38,14 +34,11 @@ White wool, got from shaving sheep.
 yarn  
 wooly blanket  
 bandage
-
 * cotton  
 **Description**    
 Cotton from a cotton plant.  
 **Used to craft**  
 pillow armor
-
-
 * fibers  
 **Description**  
 A long string of fabric, used to make rope.  
@@ -61,6 +54,9 @@ Flax, you can make flax fibers out of this.
 flax fibers  
 **recipe**  
 1x flax seed  
+
+
+
 # crafting items
 * metal piece  
 **Description**  
@@ -128,10 +124,6 @@ A white piece of paper, made of wood pulp.
 Standard metal nail. You can craft these from metal.  
 **Recipe**  
 1x metal piece to craft 4x nail
-
-
-
-
 * rope   	
 **Description**   
 A group of fibers braided together, rope is used to hold two or more items together.    
@@ -151,6 +143,8 @@ A wooden fence, used for garden upgrade. Looks like it keeps the zombies out !
 A wooden plank. short, long, medium these come in all sizes ! Used for a variety of crafts.  
 **Recipe**   
 3x wood
+
+
 # crafting consumable
 * candle  
 **Description**  
@@ -175,7 +169,11 @@ Comes from orchids, used to sweeten your meals.
 A grainy kind of flour, with this you can make a tasty snack !    
 **recipe**  
 1x flax seed  
-
+* pillow cover  
+**Description**
+A cover made of the finest linen, you can sleep easy tonight !
+**recipe**
+1x linen
 # garden items
 * fence  
 **Description**    
