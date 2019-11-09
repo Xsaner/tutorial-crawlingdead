@@ -37,12 +37,14 @@ White wool, got from shaving sheep.
 **Used to craft**  
 yarn  
 wooly blanket  
+bandage
 
 * cotton  
 **Description**    
 Cotton from a cotton plant.  
 **Used to craft**  
-bandage
+pillow armor
+
 
 * fibers  
 **Description**  
