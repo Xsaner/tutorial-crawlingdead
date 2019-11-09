@@ -359,7 +359,9 @@ This plastic black garbage bag will keep you safe from zombie bites !
 * light armor  	
 **Description**  
 black armor that covers only the basics, probably used in airsoft or some sport like that.
-
+* pillow armor  
+**Description**  
+Armor made of pillows and tape ! These zombies don't stand a chance !
 # weapon crafting material
 * spear tip  
 **Description**  
