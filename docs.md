@@ -51,15 +51,17 @@ type `CD item potato` and you will see that it grants 10hp.
 
 you are currently full of HP so lets do a battle first !
 
-But before we do that equip an item by typing in:
+
+## Fight
+
+But before we fight lets equip an item by typing in:
 `CD equip slot1 firstaid`
 
 You can equip up to 3 different items in 3 slots.
 
 Now you are ready to fight
 
-## Fight
-typ `fight` to fight a monster !  
+typ `CD fight` to fight a monster !  
 you can choose from 3 options here   
 type in a number:  
 `1` to attack,   
